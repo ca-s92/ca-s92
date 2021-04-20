@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ca-s92
-- 👀 I’m interested in ... product design and front-end development.
-- 🌱 I’m currently learning ... ux design principles and javascript.
+- 👀 I’m interested in product design and front-end development.
+- 🌱 I’m currently learning ux design principles and javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
