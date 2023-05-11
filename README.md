@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christine/@ca-s92
 - 👀 I’m interested in design and development of products and digital experiences that are inclusive, functional, all while being aesthetically pleasing. 
-- 🌱 I’m currently learning ux design principles and javascript.
+- 🌱 I’m currently learning sql and python.
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
